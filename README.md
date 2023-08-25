@@ -7,8 +7,7 @@ We're accelerating medical research by building a modern data capture platform f
 - 🙋 To learn more about me personally, check out [about Nick Groenen], my [personal manual] and my [core values].
 - 🧑‍💻 I build most of my projects with [Python], [Golang] and [Rust]. Some of my more notable repositories are pinned below.
 - 📝 I occasionally [write stuff][posts] on my blog at [nick.groenen.me].
-- 💬 You can reach me on [Twitter], [LinkedIn], and at [hello@nick.groenen.me].
-
+- 💬 You can reach me on <a rel="me" href="https://hachyderm.io/@NickGroenen">Mastodon</a>, [Twitter], [LinkedIn], and at [hello@nick.groenen.me].
 
 [about Nick Groenen]: https://nick.groenen.me/about/
 [castor]: https://nick.groenen.me/notes/castor-overview/
