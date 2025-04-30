@@ -1,7 +1,7 @@
 ## Hello! I'm Nick Groenen
 
 My professional career covers over 10 years of experience in infrastructure/DevOps/IT operations.
-Right now I'm working as a Site Reliability Engineer/Tech Lead at [Castor], an international healthcare company that started in Amsterdam.
+Right now I'm working as a Staff Software Engineer at [Castor], an international healthcare company that started in Amsterdam.
 We're accelerating medical research by building a modern data capture platform for clinical trials.
 
 - 🙋 To learn more about me personally, check out [about Nick Groenen], my [personal manual] and my [core values].
